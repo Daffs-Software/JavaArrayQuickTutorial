@@ -3,7 +3,7 @@ public class Example2
 {
 	public static void main(String[] args)
 	{
-		int[] intExample2 = {1,2,3,4,5};						//Declare the Array
+		int[] intExample2 = {1,2,3,4,5};		//Declare the Array
 			
 		System.out.println(intExample2[0]);		//print out the value
 		System.out.println(intExample2[1]);		//print out the value		
